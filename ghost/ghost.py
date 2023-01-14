@@ -43,10 +43,10 @@ def index():
                 sort=True,
                 resizable=True
                 ),
-            # spacing="1.5em",
-            # font_size="2em",
+            spacing="1.5em",
+            font_size="2em",
         ),
-        # padding_top="10%",
+        padding_top="10%",
     )
 
 
